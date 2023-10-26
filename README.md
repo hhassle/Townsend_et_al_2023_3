@@ -30,6 +30,6 @@ This directory contains fasta formated alignments used, newick formatted molecul
 
 ~/[data](https://github.com/hhassle/Townsend_et_al_2023_3/tree/main/data)/ contains raw data of endemic coronavirus (HCoV-229E, HCoV-NL63, HCoV-HKU1, and HCoV-OC43) infections.
 
-~/[trees](https://github.com/hhassle/Townsend_et_al_2023/tree/main/trees)/ contains all phylogenies based on the concatenated alignment (RAxML, IQTREE) and based on the non-recombining block of SARS-CoV-2 alignment (RAxML_non_recombinant, IQTREE_non_recombinant). Alignment information available in Townsend et al. 2021 Lancet Microbe and on Zenodo: 10.5281/zenodo.5146327.
+~/[trees](https://github.com/hhassle/Townsend_et_al_2023_3/tree/main/trees)/ contains all phylogenies based on the concatenated alignment (RAxML, IQTREE) and based on the non-recombining block of SARS-CoV-2 alignment (RAxML_non_recombinant, IQTREE_non_recombinant). Alignment information available in Townsend et al. 2021 Lancet Microbe and on Zenodo: 10.5281/zenodo.5146327.
 
 ~/[summarizeSeasonalData.R](https://github.com/hhassle/Townsend_et_al_2023_3/blob/main/summarizeSeasonalData.R) R file necessary to generate proportions of infections by month and figures.
